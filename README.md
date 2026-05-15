@@ -1,17 +1,9 @@
-# Autenticação Jus 9
+# Auth Jus 9 Identidade e Acesso
 
-## Repertório
+Repertório: `auth-jus9-identidade-acesso`
 
-`auth-jus9-identidade-acesso`
+Status: novo/técnico
 
-## Status
+Mão na Massa Final — padrão visual, assinatura, governança e orientação obrigatória.
 
-novo
-
-## Fase
-
-Pré-Mão na Massa — Pacote Governança encerrado.
-
-## Finalidade
-
-Cria base para autenticação, autorização, perfis, permissões e níveis de acesso do ecossistema Jus 9.
+© Jus 9 Tecnologia Jurídica — software livre, autoria preservada.
